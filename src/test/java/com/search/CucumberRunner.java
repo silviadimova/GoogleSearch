@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
         features = { "src/test/resources/features" },
         glue = { "src/test/java/com/search/stepDefinitions" },
         tags = { "@acceptance, @smoke" },
-        plugin = { "pretty", "html:target/cucumber-html-report", "json:target/cucumber-json-report.json" },
+        plugin = { "pretty", "html:target/cucumber-html-report", "json:target/cucumber.json" },
         dryRun = true
 )
 

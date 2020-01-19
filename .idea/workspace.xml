@@ -219,28 +219,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Scenario: Cars in London search" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/GoogleSearch.feature" />
-      <option name="GLUE" value="com.search.stepDefinitions" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="GoogleSearchTest" />
-      <option name="NAME_FILTER" value="^Cars in London search$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Cars in London search$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Cars in London search" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.CucumberRunner">
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CucumberRunner" />
         <item itemvalue="Cucumber java.Scenario: Cars in London search" />
       </list>
     </recent_temporary>
